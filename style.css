@@ -72,6 +72,7 @@ header a{
 .habilidades img{
     margin-top:40px;
     width:30%;
+    margin-bottom:20px;
 }
 
 .comecar{
@@ -81,4 +82,15 @@ header a{
 .comecar p {
     text-align: justify;
     width: 90%;
+    margin-bottom:40px;
+}
+
+footer{
+    background: #d1f1f9;
+    display:flex;
+    justify-content:center;
+}
+
+footer p{
+    text-align:center;
 }
