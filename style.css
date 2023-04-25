@@ -66,13 +66,16 @@ header a{
 
 .habilidades p {
     text-align: justify;
-    width: 70%;
+    width: 80%;
+}
+
+.habilidades a{
+    font-weight:500;
 }
 
 .habilidades img{
-    margin-top:40px;
+    margin-top:20px;
     width:30%;
-    margin-bottom:20px;
 }
 
 .comecar{
@@ -86,7 +89,7 @@ header a{
 }
 
 footer{
-    background: #d1f1f9;
+    background: #c9e7ee;
     display:flex;
     justify-content:center;
 }
